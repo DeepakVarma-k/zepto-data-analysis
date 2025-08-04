@@ -119,5 +119,7 @@ CREATE TABLE zepto (
       - Create a database and run the SQL file
 
 
-## 
--k.Deepak varma
+## 👨‍💻 Author
+
+Built by **k.Deepak Varma**  
+Feel free to use, modify, or extend this program.
